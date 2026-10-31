@@ -4,8 +4,9 @@ An interactive web app that estimates the probability of heart disease from 11 c
 
 > **Educational project only.** Not a medical device. Do not use it for diagnosis or treatment decisions.
 
-<!-- Add a screenshot or GIF: ![Demo](docs/demo.png) -->
-<!-- Live demo (after deploying to Streamlit Community Cloud): [Open the app](https://your-app-url.streamlit.app) -->
+![Landing Screen](https://github.com/hassanayoub409/heart-disease-prediction/blob/8302b27f0e1e1767fcfb56c76fa55287b7e520e4/landing_screen.png)
+
+![Comparison Screen](https://github.com/hassanayoub409/heart-disease-prediction/blob/8302b27f0e1e1767fcfb56c76fa55287b7e520e4/comparison.png)
 
 ## Features
 
